@@ -1,3 +1,3 @@
 # EnumHttp
 
-A description of this package.
+Simplified Moya style API
